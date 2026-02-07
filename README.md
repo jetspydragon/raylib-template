@@ -8,6 +8,5 @@ Template to build raylib games.
 Clone the repository and the submodules:
 
 ```
-$ git clone {this repo}
-$ git submodule update --init --recursive
+$ git clone --recurse-submodules --progress {repo url}
 ```
